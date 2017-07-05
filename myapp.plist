@@ -22,7 +22,7 @@
      <true/>
      <key>url</key>
      <!-- http或者https链接的图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
-     <string>http://101.200.44.245:8080/icon.png</string>
+     <string>http://101.200.44.245:8080/baoshun/icon.png</string>
     </dict>
     <dict>
      <key>kind</key>
@@ -31,7 +31,7 @@
      <true/>
      <key>url</key>
      <!-- http或者https链接的小图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
-     <string>http://101.200.44.245:8080/icon.png</string>
+     <string>http://101.200.44.245:8080/baoshun/icon.png</string>
     </dict>
    </array>
    <key>metadata</key>
